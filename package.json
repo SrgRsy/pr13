@@ -11,10 +11,14 @@
   "license": "ISC",
   "devDependencies": {
     "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-react": "^7.17.0",
     "nodemon": "^1.19.4"
   },
   "dependencies": {
     "express": "^4.17.1",
+    "mongoose": "^5.7.13",
     "validator": "^12.1.0",
     "validator-js": "^0.2.1"
   },
